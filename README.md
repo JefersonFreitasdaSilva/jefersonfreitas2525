@@ -1,6 +1,5 @@
-<div><a href = "mailto:jefersonfreitas1313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/jeferson-freitas-da-silva-644564171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
- 
+
+
 ![jefersonfreitas2525 GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br/>
@@ -12,9 +11,15 @@
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><br/><br/>
-  <div/>
+  
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525)](https://github.com/anuraghazra/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525)](https://github.com/jefersonfreitas2525/github-readme-stats)
 
 
-![snake gif](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
+   
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
+	
+  
+ 
