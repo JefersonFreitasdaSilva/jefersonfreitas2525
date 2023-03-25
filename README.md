@@ -1,4 +1,6 @@
-
+<div><a href = "mailto:jefersonfreitas1313@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="Link linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div>
+ 
 ![jefersonfreitas2525 GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&show_icons=true&theme=transparent)
 
 <div style="display: inline_block"><br/>
@@ -14,11 +16,4 @@
    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525)](https://github.com/anuraghazra/github-readme-stats)
 
-
-   
-  
-
-
-	
-  
- 
+![snake gif](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
