@@ -1,6 +1,6 @@
 
 
-![jefersonfreitas2525 GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&show_icons=true&theme=transparent)
+![jefersonfreitas2525 GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&show_icons=true&theme=transparent&text_color=17C404)
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -13,13 +13,13 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/><br/><br/>
   
    
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525)](https://github.com/jefersonfreitas2525/github-readme-stats)
-
+ 
 
    
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 	
   
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525&langs_count=8&show_icons=true&theme=transparent&text_color=17C404)](https://github.com/jefersonfreitas2525/github-readme-stats&show)
