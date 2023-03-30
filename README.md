@@ -3,11 +3,6 @@
   <a href="https://www.linkedin.com/in/jeferson-freitas-da-silva-644564171/" target="_blank"><img height="50em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/+5511969801105" target="_blank"><img height="50em" src="https://img.shields.io/badge/-Whatsapp-%2391205?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> <div/>
 	
-<div align="center">
-  <a href="https://github.com/jefersonfreitas2525#gh-dark-mode-only">
-    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d11175c"/>
-    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d11175c"/>
-  </a>
 
 
 <div style="display: inline_block">
@@ -30,3 +25,8 @@
 
 <img src="https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/main/lofi%20sad%20gif.gif">
 	
+<div align="center">
+  <a href="https://github.com/jefersonfreitas2525#gh-dark-mode-only">
+    <img height="250em" src="https://github-readme-stats.vercel.app/api?username=jefersonfreitas2525&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d11175c"/>
+    <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonfreitas2525&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d11175c"/>
+  </a>
