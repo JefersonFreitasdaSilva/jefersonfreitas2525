@@ -29,5 +29,6 @@
 <img height="40em" align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/main/lofi%20sad%20gif.gif">
+![snake gif](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
 	
 
