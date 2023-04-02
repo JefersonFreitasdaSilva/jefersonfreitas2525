@@ -29,7 +29,7 @@
 <img height="40em" align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-D2691E?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img src="https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/main/lofi%20sad%20gif.gif">
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/jefersonfreitas2525/count.svg" /></p>
 
 ![Snake animation](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
 	
