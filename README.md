@@ -31,8 +31,6 @@
 <img src="https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/main/lofi%20sad%20gif.gif">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Formandodev/count.svg" /></p>
 
-
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jefersonfreitas2525/jefersonfreitas2525/blob/output/github-contribution-grid-snake.svg)
 	
 
